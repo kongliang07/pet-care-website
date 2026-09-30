@@ -138,7 +138,7 @@
 
 ## 联系我们
 
-📧 info@petcare.com
+📧 naifulizi@gmail.com
 📱 +60 123456789
 🌐 https://pet-care-website.vercel.app
 

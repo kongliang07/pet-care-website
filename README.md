@@ -139,7 +139,7 @@
 ## 联系我们
 
 📧 naifulizi@gmail.com
-📱 +60 1121829419
+📱 +601121829419
 🌐 https://pet-care-website.vercel.app
 
 ---

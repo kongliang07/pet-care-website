@@ -240,7 +240,6 @@ function showPetDetails(petName) {
     });
 
     detailsHTML += `</div><div style="display: flex; gap: 10px; justify-content: center; margin-top: 20px;">
-        <button class="btn btn-primary" onclick="handleAdopt('${petName}')" style="min-width: 140px;">🐾 立即领养</button>
         <button class="btn btn-secondary" onclick="closePetModal()" style="min-width: 100px;">关闭</button>
     </div></div>`;
 
